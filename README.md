@@ -21,4 +21,4 @@ Bootstrap
 
 ----------------------------
 
-![Screenshot da aplicação](./screenshot.png)
+![Screenshot da aplicação](./MeuCurriculo.png)
